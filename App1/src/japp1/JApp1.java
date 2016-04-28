@@ -5,7 +5,7 @@ import java.util.List;
 
 public class JApp1 {
 
-    String s = "abc1";
+    String s = "abc2";
     int i = 1;
     public void m1(){
          System.out.println("parent");
